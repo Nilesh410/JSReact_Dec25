@@ -6,10 +6,10 @@ const arr=[10,20,35,40]
 
 for (const ele of arr) {
     if(ele%2!=0)
-        break;
+        return ele
     else
-        console.log(ele)
+        continue;
 }
-let sum=0
-const result=arr.map((ele)=>ele*ele).filter((ele)=>ele%2==0).reduce((sum,ele)=>sum=sum+ele)
-console.log(result)
+// let sum=0
+// const result=arr.map((ele)=>ele*ele).filter((ele)=>ele%2==0).reduce((sum,ele)=>sum=sum+ele)
+// console.log(result)
