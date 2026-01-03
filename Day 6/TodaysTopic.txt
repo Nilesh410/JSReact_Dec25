@@ -1,0 +1,54 @@
+1) Rest Parameter : 
+    -Collect the multiple values into single array 
+    -use of rest operator: used in function parameter and during  destructuring 
+    -Example: function and destructure example 
+
+2) Deep Copy and Shallow Copy 
+    - Difference between deep copy and shallow copy with example
+    - memory address of the variable  
+    
+3) Object Method 
+    - add an element
+    - delete an element
+    - change the value of property 
+    - Freeze Method 
+    - Seal Method 
+
+4) String Methods 
+    - length()
+    - toUpperCase()
+    - toLowerCase()
+    - trim()
+    - trimStart()
+    - trimEnd()
+
+    - includes("string")
+    - indexOf('char')
+    - replace ('x','y')
+    - replaceAll ('x','y')
+    - concat("","")  
+    - padStart(length,'padding char')
+    - padEnd(length,'padding char').
+    - charAt(index)
+    - charCodeAt(index)
+    - split(separator)
+    - slice(stat index, end index): Used to extract a part of a string and return a new string.
+
+5) Array Methods 
+    - slice()
+    - splice(start, delete count, ele1,ele2) Used to add, remove, or replace elements in an array.
+    - length()
+    - push()
+    - pop()
+    - shift()
+    - unshift()
+    - concat()
+    - includes()
+    - indexOf()
+    - reverse()
+    - sort()
+
+6) Asynchronous Programming 
+    -explain with example 
+    setTimeOut () function 
+   
