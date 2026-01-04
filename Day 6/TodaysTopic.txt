@@ -52,3 +52,24 @@
     -explain with example 
     setTimeOut () function 
    
+
+What is a Promise? (JavaScript)
+
+A Promise is a JavaScript object that represents the eventual completion or failure of an asynchronous operation and its resulting value.
+
+Simple Explanation
+
+A promise is like a commitment:
+
+It may succeed and give a result
+
+Or it may fail and give an error
+
+The result will be available in the future
+Promise States
+
+Pending – operation is in progress
+
+Fulfilled – operation completed successfully
+
+Rejected – operation failed

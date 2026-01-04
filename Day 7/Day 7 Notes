@@ -1,0 +1,34 @@
+1) Array Methods 
+    - slice()
+    - splice(start, delete count, ele1,ele2) Used to add, remove, or replace elements in an array.
+    - length()
+    - push()
+    - pop()
+    - shift()
+    - unshift()
+    - concat()
+    - includes()
+    - indexOf()
+    - reverse()
+    - sort()
+2) String Operation :
+
+String Methods 
+    - length()
+    - toUpperCase()
+    - toLowerCase()
+    - trim()
+    - trimStart()
+    - trimEnd()
+
+    - includes("string")
+    - indexOf('char')
+    - replace ('x','y')
+    - replaceAll ('x','y')
+    - concat("","")  
+    - padStart(length,'padding char')
+    - padEnd(length,'padding char').
+    - charAt(index)
+    - charCodeAt(index)
+    - split(separator)
+    - slice(stat index, end index): Used to extract a part of a string and return a new string.
